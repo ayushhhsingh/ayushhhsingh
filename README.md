@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi, I’m Ayush Singh 👨‍💻<br>A Full Stack Developer who loves building scalable web applications and solving real-world problems through code.<br><br>💻 Experienced in frontend & backend development<br><br>🌱 Currently learning Python and strengthening problem-solving skills<br><br>🤖 Actively exploring the field of Artificial Intelligence & Machine Learning<br><br>🚀 Curious about how AI can be integrated into full-stack applications<br><br>📚 Always learning, improving, and experimenting with new technologies<br><br>I believe in continuous learning, clean code, and building things that actually make an impact.
+### **Hi, I’m Ayush Singh 👨‍💻**
+
+<br>A Full Stack Developer who loves building scalable web applications and solving real-world problems through code.<br><br>💻 Experienced in frontend & backend development<br><br>🌱 Currently learning Python and strengthening problem-solving skills<br><br>🤖 Actively exploring the field of Artificial Intelligence & Machine Learning<br><br>🚀 Curious about how AI can be integrated into full-stack applications<br><br>📚 Always learning, improving, and experimenting with new technologies<br><br>I believe in continuous learning, clean code, and building things that actually make an impact.
 
 
 ## 🌐 Socials:
@@ -11,6 +12,12 @@ Hi, I’m Ayush Singh 👨‍💻<br>A Full Stack Developer who loves building s
 ![](https://github-readme-stats.vercel.app/api?username=ayushhhsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ayushhhsingh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushhhsingh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayushhhsingh&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ayushhhsingh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayushhhsingh&icon=6&color=3)](https://visitcount.itsvg.in)
