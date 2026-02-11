@@ -1,4 +1,4 @@
-### **Hi, I’m Ayush Singh ** ###
+### Hi, I’m Ayush Singh  ###
 
 <br>A Full Stack Developer who loves building scalable web applications and solving real-world problems through code.<br><br>💻 Experienced in frontend & backend development<br><br>🌱 Currently learning Python and strengthening problem-solving skills<br><br>🤖 Actively exploring the field of Artificial Intelligence & Machine Learning<br><br>🚀 Curious about how AI can be integrated into full-stack applications<br><br>📚 Always learning, improving, and experimenting with new technologies<br><br>I believe in continuous learning, clean code, and building things that actually make an impact.
 
