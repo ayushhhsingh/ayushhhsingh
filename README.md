@@ -2,6 +2,9 @@
 
 <br>A Full Stack Developer who loves building scalable web applications and solving real-world problems through code.<br><br> Experienced in frontend & backend development<br><br> Currently learning Python and strengthening problem-solving skills<br><br>Actively exploring the field of Artificial Intelligence & Machine Learning<br><br> Curious about how AI can be integrated into full-stack applications<br><br> Always learning, improving, and experimenting with new technologies<br><br>I believe in continuous learning, clean code, and building things that actually make an impact.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushhhsingh&label=Profile%20views&color=0e75b6&style=flat" alt="ayushhhsingh" /> </p>
+
+
 
 ##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_ayushh_singh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aayuuuushh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush72350@gmail.com) 
